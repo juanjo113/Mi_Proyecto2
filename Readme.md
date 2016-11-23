@@ -56,7 +56,7 @@ Tambien es posible crear listas anidadas:
     ![Imagen de Betis](https://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_46Do4r7QAhWMKcAKHXbZDpkQjRwIBw&url=http%3A%2F%2Ffutbolfinanzas.com%2F4-real-betis-balompie%2F&psig=AFQjCNEWD86CKS1JEiBsBIH3CXXa1CuClg&ust=1479986850765059)
     
     En Marckdown tambien se pueden crear tablas:
-    |Personaje | Posicion | Pasiva |
+    |Personaje | Posicion | Pasiva    |
     |--------- | -------- |---------- |
     |Tristana  | ADC      |Rango largo|
     |Annie     | MID      | Stunt     |
