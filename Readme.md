@@ -45,7 +45,8 @@ Tambien es posible crear listas anidadas:
 
 1. Tristana
     * Poco rango
-     *ADC
+       *ADC
+         *Mucho rango inicial 
 2. Ashe
     1. ADC
     2. Poca movilidad
