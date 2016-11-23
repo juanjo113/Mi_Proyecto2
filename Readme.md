@@ -8,7 +8,7 @@
 
 Esto es un texto normal. Esto es un **texto en negrita**. Esto es un *texto en cursiva*.
 
-Esto es un **texto en *negrita y_en cursiva_**, se pueden combinar ambas.
+Esto es un texto en **negrita y_en cursiva_**, se pueden combinar ambas.
 
 Tambien en marckdown puedes poner codigo de cualquier lenguaje:
 
@@ -26,3 +26,26 @@ Tambien en marckdown puedes poner codigo de cualquier lenguaje:
 </body>
 </html>
 ```
+
+Ademas puedes poner codigo en una misma linea : `git commit -m "corregido fallo 6851"`.
+
+Markdown dispone de listas ordenadas:
+
+1. Tristana
+2. Ashe
+3. Sivir
+
+Y de listas no ordenadas:
+
+* xPeke
+* Faker
+* Niels
+
+Tambien es posible crear listas anidadas:
+
+1. Tristana
+    *ADC
+    * Poco rango 
+2. Ashe
+    1. ADC
+    2. Poca movilidad
