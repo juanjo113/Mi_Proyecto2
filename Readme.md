@@ -8,4 +8,21 @@
 
 Esto es un texto normal. Esto es un **texto en negrita**. Esto es un *texto en cursiva*.
 
-Esto es un **texto en *negrita y en cursiva***, se pueden combinar ambas.
+Esto es un **texto en *negrita y_en cursiva_**, se pueden combinar ambas.
+
+Tambien en marckdown puedes poner codigo de cualquier lenguaje:
+
+```html
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+</head>
+<body>
+
+
+
+</body>
+</html>
+```
