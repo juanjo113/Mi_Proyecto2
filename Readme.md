@@ -44,8 +44,8 @@ Y de listas no ordenadas:
 Tambien es posible crear listas anidadas:
 
 1. Tristana
-       *ADC
-        * Poco rango 
+    *ADC
+    * Poco rango 
 2. Ashe
     1. ADC
     2. Poca movilidad
