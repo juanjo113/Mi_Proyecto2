@@ -44,8 +44,6 @@ Y de listas no ordenadas:
 Tambien es posible crear listas anidadas:
 
 1. Tristana
-   
-    
     * Poco rango
     *ADC
 2. Ashe
