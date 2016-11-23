@@ -62,3 +62,12 @@ Tambien es posible crear listas anidadas:
     | Tristana   | ADC     |Rango largo|
     | Annie      | MID     |  Stunt    |
     | Garen      | TOP     | Ganar vida|
+
+
+Tambien te permite <i>usar <b>codigo</b> HTML</i>
+
+Se pueden poner citas.
+
+>En una lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocin flaco y galgo corredor.
+>En una lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocin flaco y galgo corredor.
+>En una lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocin flaco y galgo corredor.
