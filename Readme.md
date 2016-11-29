@@ -7,22 +7,22 @@
 
 Esto es un texto en **negrita y_en cursiva_**, se pueden combinar ambas.
 
-Tambien en marckdown puedes poner codigo de cualquier lenguaje:
-
 ```html
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html xmlns="http://w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Untitled Document</title>
+    <meta charset="UTF-8"/>
+    <title>XHTML 5.1 blank page</title>
 </head>
 <body>
-
-
+<h1>Blank page</h1>
+<p> Text here </p>
 
 </body>
 </html>
 ```
+
+#Pruebas Calificaciones y CE
 
 Ademas puedes poner codigo en una misma linea : `git commit -m "corregido fallo 6851"`.
 
