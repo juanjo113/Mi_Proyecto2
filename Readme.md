@@ -5,8 +5,6 @@
 
  En **Mardown** puedes poner codigos de cualquier lenguaje en una *misma linea* y en bloque.
 
-Esto es un texto en **negrita y_en cursiva_**, se pueden combinar ambas.
-
 ```html
 <!DOCTYPE html>
 <html xmlns="http://w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -26,7 +24,7 @@ Esto es un texto en **negrita y_en cursiva_**, se pueden combinar ambas.
 
 Y de listas no ordenadas:
 
-* CE: Criterios de evaluacion
+* **CE**: Criterios de evaluacion
 * PM: Puntuacion Maxima 
 * PS10: Puntuacion sobre 10
 * RA: Resultado de aprendizaje
