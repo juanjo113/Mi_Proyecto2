@@ -1,12 +1,9 @@
 #Mi_proyecto2
 
-#Cabecera1
-##Cabecera2
-###Cabecera3
-####Cabecera4
-#####Cabecera5
+#Codigo HTML
 
-Esto es un texto normal. Esto es un **texto en negrita**. Esto es un *texto en cursiva*.
+
+ En **Mardown** puedes poner codigos de cualquier lenguaje en una *misma linea* y en bloque.
 
 Esto es un texto en **negrita y_en cursiva_**, se pueden combinar ambas.
 
