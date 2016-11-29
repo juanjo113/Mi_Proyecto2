@@ -1,84 +1,63 @@
 #Mi_proyecto2
 
-#Codigo HTML
+## Codigo HTML
 
-
- En **Mardown** puedes poner codigos de cualquier lenguaje en una *misma linea* y en bloque.
+En **Markdown** puedes poner código de cualquier lenguaje en una `mismas Linea` y en Bloque:
 
 ```html
 <!DOCTYPE html>
-<html xmlns="http://w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <meta charset="UTF-8"/>
-    <title>XHTML 5.1 blank page</title>
+<meta charset="utf-8" />
+<title>XHRML 5.1 blank page</title>
 </head>
+
 <body>
 <h1>Blank page</h1>
-<p> Text here </p>
-
+<p>Text here,</p>
 </body>
 </html>
 ```
 
-#Pruebas Calificaciones y CE
+## Pruebas: Calificaciones y CE
 
-Y de listas no ordenadas:
+* **CE**: Criterio de Evaluación.
+* **PM**: Puntuacion Máxima.
+* **Ps10**: Puntuación sobre 10.
+* **RA**: Resultado de Aprendizaje.
 
-* **CE**: Criterios de evaluacion
-* PM: Puntuacion Maxima 
-* PS10: Puntuacion sobre 10
-* RA: Resultado de aprendizaje
+Esto es un ejempo de dos tablas CE-PM en la programación Didáctica:
 
+## UNIDAD DIDÁDTICA 5 - RA5 (PM total: 150)
 
-Ademas puedes poner codigo en una misma linea : `git commit -m "corregido fallo 6851"`.
+|CE |RA5:a |RA5:b |RA5:c |RA5:d |RA5:e |RA5:f |
+|---|------|------|------|------|------|------|
+|PM |50    |50    |10    |10    |20    |10    |
 
-Markdown dispone de listas ordenadas:
+#### Opción 1(Ideal para pruebas de desarrolo)
 
-1. Tristana
-2. Ashe
-3. Sivir
+|Pregunta| CE  | PM | PS10 |
+|--------|-----|----|------|
+|1       |RA5:a|50  |3.3   |
+|2       |RA5:b|50  |3.3   |
+|3       |RA5:c|10  |1     |
+|4       |RA5:d|10  |1     |
+|5       |RA5:e|20  |1.3   |
+|6       |RA5:f|10  |1     |
+|**Total**|RA5:c|150|1     |
 
-Y de listas no ordenadas:
+#### Opción 2 (ideal para puebas de prácticas y/o combinar CE):
 
-* xPeke
-* Faker
-* Niels
+|Pregunta | CE        | PM | PS10 |
+|---------|-----------|----|------|
+|1        |RA5:a      |50  |3.3   |
+|2        |RA5:b      |50  |3.3   |
+|3        |RA5:c-RA5:f|50  |3.3   | 
+|**Total**|RA5:a-RA5:f|150 |10    |
 
-Tambien es posible crear listas anidadas:
-
-1. Tristana
-    * Poco rango
-    
-2. Ashe
-    1. ADC
-    2. Poca movilidad
-    
-    Marckdown te permite hacer [enlaces a una pagina web](http://realbetisbalompie.es/es/), includaso poniendo la URL: http://realbetisbalompie.es/es/
-    
-    En Marckdown tambien se pueden poner imagenes:
-    ![Imagen de Betis](http://videosdelbetis.com/wp-content/uploads/2012/12/Real-Betis-Balompi%C3%A9.jpg)
-    
-    En Marckdown tambien se pueden crear tablas:
-    
-    | Personaje  | Posicion|Pasiva     |
-    | ---------  | --------|---------- |
-    | Tristana   | ADC     |Rango largo|
-    | Annie      | MID     |  Stunt    |
-    | Garen      | TOP     | Ganar vida|
-
-
-Tambien te permite <i>usar <b>codigo</b> HTML</i>
-
-Se pueden poner citas.
-
->En una lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocin flaco y galgo corredor.
->En una lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocin flaco y galgo corredor.
->En una lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocin flaco y galgo corredor.
-
----
-
-Markdown te permite crear listas de chequeo:
-
-- [ ] Patatas. 
-- [X] Limones.
-- [ ] Melones.
+## Imágenes
+ Debian es un sistema operativo basado en GNU/linux:
+ 
+ ![imagen] (http://blog.desdelinux.net/wp-content/uploads/2013/01/debian-logo-600x290.jpg 'Imagen debian')
+ 
+ Puedes descargarlo en el siguiente enlace: https://debian.org./
