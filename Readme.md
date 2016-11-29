@@ -24,6 +24,14 @@ Esto es un texto en **negrita y_en cursiva_**, se pueden combinar ambas.
 
 #Pruebas Calificaciones y CE
 
+Y de listas no ordenadas:
+
+* CE: Criterios de evaluacion
+* PM: Puntuacion Maxima 
+* PS10: Puntuacion sobre 10
+* RA: Resultado de aprendizaje
+
+
 Ademas puedes poner codigo en una misma linea : `git commit -m "corregido fallo 6851"`.
 
 Markdown dispone de listas ordenadas:
